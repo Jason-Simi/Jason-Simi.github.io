@@ -1289,6 +1289,9 @@ progress {
   .col-lg-6 {
     flex: 0 0 auto;
     width: 50%;
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 20px;
+    font-size: 14px;
   }
   .col-lg-7 {
     flex: 0 0 auto;
@@ -10825,6 +10828,7 @@ textarea.form-control-lg {
   }
 }
 body {
-  background: url("https://dummyimage.com/1920x1080/dee2e6/6c757d.jpg") no-repeat center center fixed;
+  background-image: url('/assets/resume_.jpg');
   background-size: cover;
+  background-color: rgba(255, 255, 255, 0.2);
 }

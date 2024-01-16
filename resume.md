@@ -8,7 +8,7 @@ http://www.linkedin.com/in/jasonsimi
 
 # Summary
 
-I am a hard working and fast learning student that can quickly adapt to any task in the field. 
+Hello! I'm Jason Simi, a Senior at the University of Washington studying GIS and Informatics. I have technical experience with Java, Python, and front-end programming. I'm driven by my desire to learn and utilize my passion for technology to create positive impacts on people's lives.
 
 # Work Experience (only last 10 years)
 
