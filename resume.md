@@ -9,7 +9,7 @@ http://www.linkedin.com/in/jasonsimi
 # Summary
 
 Hello! I'm Jason Simi, a Senior at the University of Washington studying GIS and Informatics. I have technical experience with Java, Python, and front-end programming. I'm driven by my desire to learn and utilize my passion for technology to create positive impacts on people's lives.
-
+![Sample Image](assets\resume_.jpg)
 # Work Experience (only last 10 years)
 
 ## University Name 1 (City, State)
